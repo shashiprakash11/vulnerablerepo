@@ -1,2 +1,6 @@
 flask
 sqlite3
+
+xK9mP2ZqL8sDf7GhJkLmNoPqRsTuVwXyZ1234567890AbCdEfGhIjKlMnOpQrStUvWxYz
+sk_live_xK9mP2ZqL8sDf7GhJkLmNoPqRsTuVwXyZ
+ghp_AbCdEfGhIjKlMnOpQrStUvWxYz1234567890
