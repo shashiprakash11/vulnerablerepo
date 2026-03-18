@@ -1,0 +1,9 @@
+<form method="POST" action="/login">
+  <input name="username">
+  <input name="password">
+  <button>Login</button>
+</form>
+
+<div>
+  Welcome {{ request.args.get('name') }}
+</div>
