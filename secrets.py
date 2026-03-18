@@ -1,0 +1,4 @@
+# ❌ High confidence secrets
+AWS_SECRET_ACCESS_KEY = "AKIAIOSFODNN7EXAMPLE"
+API_KEY = "sk_test_51H8abcXYZ"
+PRIVATE_KEY = "-----BEGIN PRIVATE KEY-----ABC123-----END PRIVATE KEY-----"
