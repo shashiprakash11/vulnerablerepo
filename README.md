@@ -1,2 +1,6 @@
-# vulnerablerepo
-vulnerable repo for testing vulnerabilities in a repo
+# Vulnerable CodeFortress Lab
+
+⚠️ This repository is intentionally vulnerable for educational purposes only.
+
+Default creds:
+admin / admin123
