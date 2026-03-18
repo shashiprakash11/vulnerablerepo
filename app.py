@@ -1,5 +1,15 @@
 from flask import Flask, request
 import sqlite3
+import subprocess
+
+@app.route('/ping')
+def ping():
+    ip = request.args.get("ip")
+    
+    # ❌ Command Injection (scanner-friendly)
+    subprocess.Popen(f"ping -c 1 {ip}", shell=True)
+    
+    return "Pinged"
 
 app = Flask(__name__)
 
